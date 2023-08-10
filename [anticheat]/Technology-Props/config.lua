@@ -1,0 +1,38 @@
+Config = {  -- Napisz tutaj Propy które chcesz by Antiheat Weryfikował, może napiszę wszystkie ale aktualnie mi się nie chce elo
+    PropsWhitelisted = {
+        "prop_gas_pump_1a",
+        "apa_prop_apa_bankdoor_new",
+        "apa_heist_apart2_door",
+        "apa_prop_ss1_mpint_garage2",
+        "apa_prop_heist_cutscene_doorb",
+        "apa_prop_heist_cutscene_doora",
+        "apa_prop_apa_cutscene_doorb",
+        "apa_prop_apa_cutscene_doora",
+        "apa_prop_apa_cutscene_doora",
+        "ex_prop_door_maze2_rf_l",
+        "ex_prop_door_lowbank_roof",
+        "ex_prop_door_arcad_roof_r",
+        "ex_prop_door_arcad_roof_l",
+        "gr_prop_gr_fnclink_03h",
+        "gr_prop_gr_fnclink_03g",
+        "gr_prop_gr_fnclink_03f",
+        "gr_prop_gr_fnclink_03e",
+        "hei_prop_bh1_08_mp_gar2",
+        "hei_prop_bh1_09_mp_gar2",
+        "hei_prop_com_mp_gar2",
+        "hei_prop_dt1_20_mp_gar2",
+        "prop_streetlight_03c",
+        "prop_streetlight_01b",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+    }
+}
+
+ -- Napisz tutaj Propy które chcesz by Antiheat Weryfikował, może napiszę wszystkie ale aktualnie mi się nie chce elo
